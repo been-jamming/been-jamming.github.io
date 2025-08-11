@@ -13,4 +13,4 @@ My journey into math started in 2010 when I began to make software. For years I 
 
 Aside from math and computing, I enjoy rock climbing, roller skating, and listening to music.
 
-![image](images/climbing_portrait.jpg)
+![image](images/climbing.jpg)
