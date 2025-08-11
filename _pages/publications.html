@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Articles"
 permalink: /publications/
 author_profile: true
 ---
@@ -19,6 +19,9 @@ author_profile: true
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
+
+      {% assign title_shown = true%}
+
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
