@@ -14,11 +14,15 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Teaching"
+    url: /teaching/    
+
+  - title: "Toys"
+    url: /toys/
+
   - title: "CV"
     url: /files/cv.pdf
     
-#  - title: "Teaching"
-#    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/

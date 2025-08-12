@@ -8,5 +8,15 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% if post.position == 'Instructor' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h1>Teaching Assistanships</h1>
+
+{% for post in site.teaching reversed %}
+  {% if post.position == 'TA' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
