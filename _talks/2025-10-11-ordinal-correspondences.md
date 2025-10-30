@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2025-10-11-ordinal-correspondences
 venue: "ECOAS 2025"
 date: 2025-10-11
-location: "University of Nebraska-Lincoln"
+location: "Lincoln, Nebraska, USA"
 type: "Contributed talk"
 ---
 
