@@ -2,10 +2,10 @@
 title: "\\\\(C^\\*\\\\)-correspondences for Ordinal Graphs"
 collection: talks
 type: "Talk"
-permalink: /talks/2025-10-11-ordinal-correspondences
-venue: "ECOAS 2025"
-date: 2025-10-11
-location: "University of Nebraska-Lincoln"
+permalink: /talks/2025-10-20-ordinal-correspondences
+venue: "GPOTS 2025"
+date: 2025-10-20
+location: "San Juan, Puerto Rico"
 type: "Contributed talk"
 ---
 
