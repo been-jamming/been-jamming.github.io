@@ -5,10 +5,10 @@ category: manuscripts
 permalink: /publication/2025-01-19-ordinal-graph-algebras
 excerpt: 'We consider Cuntz-Krieger algebras for a class of left-cancellative categories with a fibration into the ordinals.'
 date: 2025-01-19
-action: 'Submitted to'
-venue: 'Mathematica Scandinavica'
+#action: 'Submitted to'
+venue: 'arXiv'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'https://arxiv.org/abs/2411.00206v2'
+paperurl: 'https://arxiv.org/abs/2411.00206v2'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

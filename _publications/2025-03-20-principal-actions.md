@@ -5,10 +5,10 @@ category: manuscripts
 permalink: /publication/2025-03-20-principal-actions
 excerpt: 'We study topological quivers \\(Q\\) admitting a free and proper action by a locally compact group \\(G\\) together with their associated \\(C^*\\)-algebras.'
 date: 2025-03-20
-action: 'Submitted to'
-venue: 'Documenta Mathematica'
+#action: 'Submitted to'
+venue: 'arXiv'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'https://arxiv.org/abs/2411.00206v2'
+paperurl: 'https://arxiv.org/abs/2503.16352'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
